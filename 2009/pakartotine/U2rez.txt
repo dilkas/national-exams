@@ -1,0 +1,5 @@
+Vilkas Baltas       3 55
+Lapinas Rudas       3 58
+Lokys Rudasis       3 59
+Lapinas Baltas      4 2
+Lapinas Ilgas       4 4
